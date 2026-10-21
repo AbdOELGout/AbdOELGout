@@ -30,5 +30,7 @@ I believe in continuous learning and building projects to solidify my knowledge.
 
 <p align="left">
 <a href="https://www.github.com/[YourGithubUsername]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/[YourLinkedinUsername]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/[YourLinkedinUsername]" target="_blank" rel="linkedin.com/in/abdellah-elgouttrani-83b88a265
+
+"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
